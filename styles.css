@@ -1,0 +1,40 @@
+/* Color scheme */
+:root {
+  --main-blue: #1E4D7B;
+  --accent-gold: #F8E1B2;
+}
+
+/* General body styling */
+body {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+
+/* Navbar */
+.navbar {
+  background-color: var(--main-blue) !important;
+}
+.navbar a, .navbar-brand {
+  color: white !important;
+}
+.navbar a:hover {
+  color: var(--accent-gold) !important;
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: var(--main-blue);
+}
+
+/* Footer */
+.page-footer {
+  background-color: var(--main-blue);
+  color: white;
+  padding: 10px;
+}
+
+/* Image centering */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
