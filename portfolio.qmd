@@ -1,0 +1,16 @@
+---
+title: "Portfolio"
+---
+
+# Portfolio
+
+A selection of recent work:
+
+## Floral Enhancement Project
+Restoring pollinator habitat in post-fire forests.
+
+## Data Analysis for Conservation
+Statistical modeling of bee population dynamics.
+
+## Outreach
+Presentations and workshops for community and academic audiences.

@@ -1,0 +1,14 @@
+---
+title: "Services"
+---
+
+# Services
+
+I offer expertise in:
+
+- Pollinator habitat restoration
+- Ecological data analysis (R, Python, GIS)
+- Scientific writing and communication
+- Public talks and outreach
+
+For inquiries, see the [Contact](contact.qmd) page.

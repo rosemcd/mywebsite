@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome\nHi, I’m Rose McDonald — a conservation ecologist and pollinator enthusiast.\nI study how to improve pollinator habitats in managed landscapes.\n\n\n\nBees\n\n\nThis site shares my work, services, and portfolio."
+  },
+  {
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Services",
+    "section": "",
+    "text": "Services\nI offer expertise in:\n\nPollinator habitat restoration\nEcological data analysis (R, Python, GIS)\nScientific writing and communication\nPublic talks and outreach\n\nFor inquiries, see the Contact page."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\n📧 Email: yourname@email.com\n💼 LinkedIn: linkedin.com/in/yourprofile\n🐦 Twitter: @yourhandle"
+  }
+]

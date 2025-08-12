@@ -1,0 +1,9 @@
+---
+title: "Contact"
+---
+
+# Contact
+
+📧 Email: [yourname@email.com](mailto:yourname@email.com)  
+💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)

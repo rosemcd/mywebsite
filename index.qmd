@@ -1,0 +1,12 @@
+---
+title: "Home"
+---
+
+# Welcome
+
+Hi, I’m **Rose McDonald** — a conservation ecologist and pollinator enthusiast.  
+I study how to improve pollinator habitats in managed landscapes.
+
+![Bees](images/bee-photo.jpeg){.center width="80%"}
+
+This site shares my work, services, and portfolio.
