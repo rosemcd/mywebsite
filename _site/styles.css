@@ -2,19 +2,31 @@
 :root {
   --main-blue: #1E4D7B;
   --accent-gold: #F8E1B2;
+  --text-dark: #222;
+  --background-light: #fafafa;
 }
 
 /* General body styling */
 body {
   font-family: 'Helvetica Neue', Arial, sans-serif;
+  color: var(--text-dark);
+  background-color: var(--background-light);
+  line-height: 1.6;
+  margin: 0;
+  padding: 0 1rem;
 }
 
 /* Navbar */
 .navbar {
   background-color: var(--main-blue) !important;
+  padding: 0.75rem 1.5rem;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  font-weight: 600;
 }
 .navbar a, .navbar-brand {
   color: white !important;
+  text-decoration: none;
+  transition: color 0.3s ease;
 }
 .navbar a:hover {
   color: var(--accent-gold) !important;
@@ -23,13 +35,27 @@ body {
 /* Headings */
 h1, h2, h3 {
   color: var(--main-blue);
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+/* Paragraphs */
+p {
+  margin-bottom: 1rem;
+  font-size: 1.05rem;
 }
 
 /* Footer */
 .page-footer {
   background-color: var(--main-blue);
   color: white;
-  padding: 10px;
+  padding: 1rem 0;
+  text-align: center;
+  font-size: 0.9rem;
+  margin-top: 3rem;
+  letter-spacing: 0.05em;
 }
 
 /* Image centering */
@@ -37,4 +63,48 @@ h1, h2, h3 {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+}
+
+/* Links in content */
+a {
+  color: var(--main-blue);
+  text-decoration: none;
+  border-bottom: 1px solid var(--accent-gold);
+  transition: color 0.3s ease, border-bottom-color 0.3s ease;
+}
+a:hover {
+  color: var(--accent-gold);
+  border-bottom-color: var(--main-blue);
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+  body {
+    padding: 0 0.5rem;
+  }
+  .navbar {
+    padding: 0.5rem 1rem;
+  }
+  h1 {
+    font-size: 1.8rem;
+  }
+}
+
+.btn {
+  background-color: var(--main-blue);
+  color: white;
+  padding: 0.6rem 1.2rem;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: 600;
+  display: inline-block;
+  transition: background-color 0.3s ease;
+}
+.btn:hover {
+  background-color: var(--accent-gold);
+  color: var(--main-blue);
 }

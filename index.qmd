@@ -1,12 +1,32 @@
 ---
-title: "Home"
+title: "Small Business Digital and Traditional Marketing Specialist"
+format: html
 ---
 
-# Welcome
+# Welcome!
 
-Hi, I’m **Rose McDonald** — a conservation ecologist and pollinator enthusiast.  
-I study how to improve pollinator habitats in managed landscapes.
+**Dynamic and results-oriented marketing professional** with over four and a half years of experience in business development.
 
-![Bees](images/bee-photo.jpeg){.center width="80%"}
+---
 
-This site shares my work, services, and portfolio.
+## About Me
+
+I bring proven expertise in:  
+- Digital advertising  
+- Social media management  
+- SEO  
+- Traditional marketing  
+- Sales  
+- Accounts receivable management  
+
+---
+
+## What I Do
+
+I am passionate about meeting business goals, driving brand awareness, engaging audiences across multiple platforms, and cultivating strong relationships with clients and partners.
+
+[Connect on LinkedIn](https://www.linkedin.com/in/ryandebban/){.btn}
+
+---
+
+

@@ -2,7 +2,6 @@
 title: "Contact"
 ---
 
-# Contact
 
 📧 Email: [debbanrd@gmail.com](mailto:debbanrd@gmail.com)  
 💼 LinkedIn: [https://www.linkedin.com/in/ryandebban/](https://www.linkedin.com/in/ryandebban/)  
